@@ -9,7 +9,7 @@ Return the minimum number of pushes needed to type word after remapping the keys
 
 An example mapping of letters to keys on a telephone keypad is given below. Note that 1, *, #, and 0 do not map to any letters.
 
-<p>image oF keypad</P>
+<p>image oF keypad is added outside the source file </P>
 
 
 Intuition :--
